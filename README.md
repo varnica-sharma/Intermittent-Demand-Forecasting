@@ -217,21 +217,6 @@ This project was developed as part of a **Time Series Analysis** course, demonst
 - Feature engineering for external factor integration
 - Statistical hypothesis testing and model comparison
 - Real-world application to retail inventory management
-
-## 📧 Contact & Contributions
-
-Feel free to open issues or submit pull requests for improvements!
-
-## 📜 License
-
-This project is open source and available for educational purposes.
-
-## 🙏 Acknowledgments
-
-- **Kaggle** for hosting the competition and providing the platform
-- **Corporación Favorita** for sponsoring and sharing the dataset
-- Time Series Analysis course instructors and peers for guidance
-
 ---
 
 **Note**: This is an academic project for learning purposes. The dataset and methods are based on real-world retail scenarios but results should be validated before production use.
