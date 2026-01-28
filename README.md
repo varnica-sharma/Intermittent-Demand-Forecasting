@@ -199,15 +199,6 @@ pip install py7zr
    - Deep learning shows promise but needs more tuning
 5. **Practical Application**: Seasonal naive provides robust baseline; CatBoost offers best spike detection
 
-## 📝 Research Paper
-
-This project is accompanied by a detailed research paper: **"Deep Learning Framework for Predicting Intermittent Demand Spikes During E-commerce Flash Sales: A Multi-Platform Comparative Analysis with External Factor Integration"**
-
-Key contributions:
-- 32% improvement in MASE over traditional methods
-- 18% improvement over standard deep learning models
-- 15% additional accuracy gain from external factors
-
 ## 🎓 Academic Context
 
 This project was developed as part of a **Time Series Analysis** course, demonstrating:
