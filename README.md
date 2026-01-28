@@ -209,5 +209,3 @@ This project was developed as part of a **Time Series Analysis** course, demonst
 - Statistical hypothesis testing and model comparison
 - Real-world application to retail inventory management
 ---
-
-**Note**: This is an academic project for learning purposes. The dataset and methods are based on real-world retail scenarios but results should be validated before production use.
